@@ -12,6 +12,9 @@ $packages = [
   'autoconf',
   'libtool',
   'libcurl3-dev',
+  'python-dev',
+  'libcppunit-dev',
+  'libunwind7-dev',
 ]
 
 package{ $packages :
