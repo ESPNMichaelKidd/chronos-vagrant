@@ -17,6 +17,8 @@ $packages = [
   'libunwind7-dev',
   'libsasl2-dev',
   'maven',
+  'nodejs',
+  'npm',
 ]
 
 package{ $packages :
