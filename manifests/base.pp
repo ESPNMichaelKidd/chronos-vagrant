@@ -15,6 +15,7 @@ $packages = [
   'python-dev',
   'libcppunit-dev',
   'libunwind7-dev',
+  'libsasl2-dev',
 ]
 
 package{ $packages :
