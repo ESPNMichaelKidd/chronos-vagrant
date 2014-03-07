@@ -4,8 +4,8 @@ exec{'apt-get update':
 
 $packages = [
   'vim-nox',
-  'openjdk-6-jre-headless',
-  'openjdk-6-jdk',
+  'openjdk-7-jre-headless',
+  'openjdk-7-jdk',
   'build-essential',
   'curl',
   'git',
