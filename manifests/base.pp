@@ -16,6 +16,7 @@ $packages = [
   'libcppunit-dev',
   'libunwind7-dev',
   'libsasl2-dev',
+  'maven',
 ]
 
 package{ $packages :
